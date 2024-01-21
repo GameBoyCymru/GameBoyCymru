@@ -43,8 +43,8 @@
 -->
 
 ## 🚀 My Projects
-- 🌐 [Project 1](#) - Short description of Project 1.
-- 📱 [Project 2](#) - Brief overview of Project 2.
+- 🌐 [Project 1](#) - Web Portfolio.
+- 📱 [Project 2](#) - UK Election Systems Database.
 - 🔒 [Project 3](#) - Description of Project 3.
 
 
