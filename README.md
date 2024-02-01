@@ -1,23 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/joshuathomas-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <!--
-  <a href="https://www.youtube.com/channel/UCCTnOo3TmTYjGByLsMBxt7w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  -->
-  
-</div>
+
 </div>
 
 <h1 align="center">Hi there, I'm Joshua Thomas! 👋
@@ -54,6 +40,18 @@
 - Previous: Ysgol Garth Olwg.
 
 ## 📫 Get in Touch
-- LinkedIn: <a href="https://www.linkedin.com/in/joshuathomas-dev/"> joshuathomas-dev
+<div id="badges">
+  <a href="https://www.linkedin.com/in/joshuathomas-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
-Feel free to explore my repositories and collaborate on exciting projects! 😄
+  <!--
+  <a href="https://www.youtube.com/channel/UCCTnOo3TmTYjGByLsMBxt7w">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  -->
+  
+</div>
