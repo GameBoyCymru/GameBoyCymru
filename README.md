@@ -21,7 +21,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Joshua Thomas! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joshuathomas22&label=Profile%20views&color=0e75b6&style=flat" alt="joshuathomas22" /> </p></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GameBoyCymru&label=Profile%20views&color=0e75b6&style=flat" alt="joshuathomas22" /> </p></h1>
 
 
 ## About Me.
@@ -36,8 +36,8 @@
 
 ## 🔧 Technologies & Statistics
 <div>
-<img src="https://raw.githubusercontent.com/joshuathomas22/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/joshuathomas22/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/GameBoyCymru/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/GameBoyCymru/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
 
 
