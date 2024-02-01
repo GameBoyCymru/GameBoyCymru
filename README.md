@@ -21,7 +21,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Joshua Thomas! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GameBoyCymru&label=Profile%20views&color=0e75b6&style=flat" alt="joshuathomas22" /> </p></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GameBoyCymru&label=Profile%20views&color=0e75b6&style=flat" alt="GameBoyCymru" /> </p></h1>
 
 
 ## About Me.
@@ -42,9 +42,9 @@
 
 
 ## 🚀 My Projects
-- 🌐 [Project 1](#) - Web Portfolio.
-- 📱 [Project 2](#) - UK Election Systems Database.
-- 🔒 [Project 3](#) - Pokemon Pokedex and Game.
+- 🌐 [Web Portfolio](#) - This is my Web Portfolio. It's basically all of this just on a website.
+- 📱 [UK Election Systems Database](#) - Uses Python and SQLite3 to create a databases and then run mathematical calculations based on several different election systems to get results and display them on a website.
+- 🔒 [Pokemon Pokedex and Game](#) - Using Openframeworks in C++, it emulates a "Pokemon PC" like in the video games, making use of classic sounds to generate nostalgia as you browse through the Pokedex or play a "Who's that Pokemon?" minigame.
 
 
 
