@@ -29,6 +29,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - 👨‍💻 I'm a 19-year-old undergraduate.
 - 🎓 Currently studying Cybersecurity to enhance my skills and contribute to a safer digital world.
 - 💻 My primary coding language is C++, but I also enjoy working with HTML, CSS, and JavaScript for web development projects.
